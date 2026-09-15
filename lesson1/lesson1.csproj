@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\..\..\..\..\..\Desktop\Ảnh màn hình 2026-09-15 lúc 19.08.22.png">
+        <Link>wwwroot\images\Ảnh màn hình 2026-09-15 lúc 19.08.22.png</Link>
+      </Content>
+    </ItemGroup>
+
+</Project>
